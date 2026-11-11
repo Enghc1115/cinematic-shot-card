@@ -30,7 +30,7 @@
 git clone https://github.com/Enghc1115/cinematic-shot-card.git ~/.codex/skills/cinematic-shot-card
 ```
 
-克隆私有仓库时，需要使用有访问权限的 GitHub 账号。在 Codex 新对话中输入 `$cinematic-shot-card` 即可调用。
+复制完成后，在 Codex 新对话中输入 `$cinematic-shot-card` 即可调用。
 
 ## 仓库文件
 
