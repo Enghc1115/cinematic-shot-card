@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影感镜头卡"
+  short_description: "把零散的画面描述整理成镜头卡，缺陷拿不准时给出候选供你挑选"
+  default_prompt: "用 $cinematic-shot-card 把我下面这段画面描述整理成一张镜头卡。"
